@@ -25,10 +25,9 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NoraizRana&show_icons=true&theme=radical" alt="Noraiz's stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NoraizRana&theme=radical" alt="Streak Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NoraizRana&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=NoraizRana&theme=radical" width="48%"/>
 </p>
-
 ### 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noraiz-rana-291277344)

@@ -23,12 +23,12 @@
 
 ### 📈 GitHub Stats
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NoraizRana&show_icons=true&theme=radical" alt="Noraiz's stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NoraizRana&theme=radical" alt="Streak Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NoraizRana&theme=radical" alt="Noraiz's GitHub streak" />
 </p>
 
----
+
 
 ### 📫 Connect With Me
 

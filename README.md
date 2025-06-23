@@ -21,12 +21,13 @@
 
 ---
 
-### 📈 GitHub Stats
-
+### 🔥 GitHub Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=NoraizRana&theme=tokyonight" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=NoraizRana&theme=radical" alt="GitHub Streak Stats" />
 </p>
+
+
 ### 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noraiz-rana-291277344)

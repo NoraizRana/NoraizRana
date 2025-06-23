@@ -25,8 +25,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NoraizRana&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://streak-stats.demolab.com/?user=NoraizRana&theme=radical" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=NoraizRana&theme=tokyonight" width="48%"/>
 </p>
 ### 📫 Connect With Me
 

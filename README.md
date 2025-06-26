@@ -36,7 +36,8 @@
 
 ### 📌 Featured Projects
 
+- 🔹 [Flickr](https://github.com/NoraizRana/Flickr-ui-replica)
 - 🔹 [JavaScript_with_Noraiz](https://github.com/NoraizRana/JavaScript_with_Noraiz)
 - 🔹 [Tailwind-CSS](https://github.com/NoraizRana/Tailwind-CSS)
-- 🔹 [LeetCode Problems](https://github.com/NoraizRana/LeetCode-Problems)
+
 

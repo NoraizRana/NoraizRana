@@ -24,10 +24,8 @@
 ### 🔥 GitHub Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app?user=NoraizRana&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=NoraizRana&theme=radical" alt="streak stats" />
 </p>
-
-
 
 
 ### 📫 Connect With Me

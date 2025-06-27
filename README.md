@@ -24,8 +24,9 @@
 ### 🔥 GitHub Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=NoraizRana&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=NoraizRana&theme=radical" alt="streak stats" />
 </p>
+
 
 
 ### 📫 Connect With Me

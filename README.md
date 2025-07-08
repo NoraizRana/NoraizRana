@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **Frontend Projects & JavaScript Practice**
 - 🌱 I’m currently learning **React**
 - 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **HTML, CSS, JavaScript, Tailwind, PHP, MySQL**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Tailwind,**
 - 📫 How to reach me: **noraizrana389@gmail.com**
 
 ![](https://komarev.com/ghpvc/?username=NoraizRana&color=blue)

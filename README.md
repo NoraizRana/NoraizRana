@@ -36,6 +36,7 @@
 
 ### 📌 Featured Projects
 
+- 🔹 [Noraiz-Portfolio](https://github.com/NoraizRana/Noraiz-Portfolio)
 - 🔹 [AccuRates Global](https://github.com/NoraizRana/AccuRates-A-Currency-Converter-App)
 - 🔹 [Flickr](https://github.com/NoraizRana/Flickr-ui-replica)
 - 🔹 [JavaScript_with_Noraiz](https://github.com/NoraizRana/JavaScript_with_Noraiz)

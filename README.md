@@ -6,8 +6,7 @@ I'm **Noraiz Rana** | **MERN Stack Developer** | **Full-Stack Architect** | **Te
 
 <a href="https://github.com/NoraizRana" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="25" /></a>
 <a href="https://linkedin.com" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="25" /></a>
-<a href="https://twitter.com" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="25" /></a>
-<a href="mailto:your.email@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="25" /></a>
+<a href="mailto:noraizrana389@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="25" /></a>
 
 ---
 
@@ -70,8 +69,6 @@ I'm **Noraiz Rana** | **MERN Stack Developer** | **Full-Stack Architect** | **Te
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NoraizRana&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9)](https://github.com/NoraizRana)
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoraizRana&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/NoraizRana)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NoraizRana&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=79c0ff&currStreakLabel=c9d1d9)](https://github-readme-streak-stats.herokuapp.com?user=NoraizRana&theme=radical)
@@ -97,31 +94,6 @@ I'm **Noraiz Rana** | **MERN Stack Developer** | **Full-Stack Architect** | **Te
 
 ---
 
-## 🎨 Featured Projects
-
-<div align="center">
-
-### Project Showcase
-
-**[🌟 Project One](https://github.com/NoraizRana/project-one)**
-> E-Commerce Platform with React, Node.js, MongoDB
-> 
-> Features: Authentication, Payment Gateway, Admin Dashboard
-
-**[🔥 Project Two](https://github.com/NoraizRana/project-two)**
-> Real-time Chat Application
-> 
-> Features: Socket.io, JWT Auth, Message History
-
-**[💎 Project Three](https://github.com/NoraizRana/project-three)**
-> Task Management System
-> 
-> Features: Drag-and-Drop, Team Collaboration, Analytics
-
-</div>
-
----
-
 ## 🎓 Learning & Development
 
 ```
@@ -129,8 +101,7 @@ I'm **Noraiz Rana** | **MERN Stack Developer** | **Full-Stack Architect** | **Te
 ├── 🔹 Advanced React Patterns
 ├── 🔹 GraphQL & Apollo Client
 ├── 🔹 Cloud Deployment (AWS, Vercel)
-├── 🔹 Docker & Kubernetes
-├── 🔹 TypeScript Advanced Concepts
+├── 🔹 Maintaining Scalable Apps
 └── 🔹 Web Performance Optimization
 
 📖 Areas of Interest:
@@ -147,7 +118,7 @@ I'm **Noraiz Rana** | **MERN Stack Developer** | **Full-Stack Architect** | **Te
 
 <div align="center">
 
-- 🔨 Building: **Next.js E-Commerce Platform**
+- 🔨 Building: **MERN based E-Commerce Platform**
 - 📚 Learning: **Advanced Backend Optimization**
 - 🤝 Contributing: **Open-Source Projects**
 - 📝 Writing: **Tech Blog & Tutorials**
@@ -178,9 +149,8 @@ I'm always excited to:
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noraizrana389@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/noraizrana)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/noraizrana)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white)](https://noraizrana.com)
 
 </div>
@@ -207,6 +177,6 @@ If you find my work helpful, please consider:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NoraizRana&color=blueviolet)
 
-**© 2024 - 2026 | All Rights Reserved**
+**© 2023 - 2026 | All Rights Reserved**
 
 </div>

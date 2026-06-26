@@ -1,163 +1,212 @@
 <div align="center">
 
-# ⚡ ToolForge — Free Online Tools for Pakistan
+# 👋 Welcome to My Digital Universe!
 
-### The Only Toolkit You'll Ever Need
+I'm **Noraiz Rana** | **MERN Stack Developer** | **Full-Stack Architect** | **Tech Enthusiast**
 
-[![Live Site](https://img.shields.io/badge/🌐_Live_Site-freetoolforge.org-4F46E5?style=for-the-badge)](https://freetoolforge.org)
-[![Tools](https://img.shields.io/badge/🛠️_Tools-46_Free-10B981?style=for-the-badge)](https://freetoolforge.org/tools)
-[![No Signup](https://img.shields.io/badge/✅_No_Signup-Required-F59E0B?style=for-the-badge)](https://freetoolforge.org)
-[![No Ads](https://img.shields.io/badge/🚫_No_Ads-Ever-EF4444?style=for-the-badge)](https://freetoolforge.org)
+<a href="https://github.com/NoraizRana" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="25" /></a>
+<a href="https://linkedin.com" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="25" /></a>
+<a href="https://twitter.com" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="25" /></a>
+<a href="mailto:your.email@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="25" /></a>
 
-**Free online tools for Pakistani students, freelancers and developers.**
-**EMI, MDCAT, Zakat, FBR tax calculators, PDF tools and more.**
-**No signup. No ads. Forever free.**
+---
 
-[🌐 Homepage](https://freetoolforge.org) • [🧮 Calculators](https://freetoolforge.org/tools/calculators) • [📝 Text Tools](https://freetoolforge.org/tools/text-tools) • [💻 Developer Tools](https://freetoolforge.org/tools/developer-tools) • [🖼️ Image Tools](https://freetoolforge.org/tools/image-tools) • [📄 Document Tools](https://freetoolforge.org/tools/document-tools)
+</div>
+
+## 🎯 About Me
+
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/SWoSkN6DxTszqKNgPym/giphy.gif">
+
+- 🚀 **MERN Stack Developer** with expertise in building scalable web applications
+- 💡 **Full-Stack Developer** capable of end-to-end project delivery
+- 🎨 **UI/UX Enthusiast** passionate about creating beautiful, responsive interfaces
+- 📚 **Continuous Learner** always exploring emerging technologies
+- 🤝 **Open for Collaboration** on innovative projects and open-source contributions
+- 💬 **Ask me about** Web Development, JavaScript, React, Node.js, MongoDB, or anything tech!
+- ⚡ **Fun Fact:** I can debug code faster than you can say "console.log()" 😄
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### Frontend Technologies
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+
+### Backend Technologies
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=swagger&logoColor=white)
+
+### Developer Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+
+### Additional Skills
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
+![Authentication](https://img.shields.io/badge/Authentication-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-FF69B4?style=for-the-badge)
+![SEO](https://img.shields.io/badge/SEO-4B8BBE?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🧮 Calculators (16 Tools)
+## 📊 GitHub Statistics & Activity
 
-Pakistan-specific calculators built for students, freelancers, and professionals.
+<div align="center">
 
-| Tool | Description | Link |
-|------|-------------|------|
-| 🏦 **EMI Calculator** | Calculate monthly loan installments for home, car, personal and business loans with Pakistani bank rates | [Use Tool →](https://freetoolforge.org/tools/calculators/emi-calculator) |
-| ➕ **Basic Calculator** | Simple arithmetic calculations | [Use Tool →](https://freetoolforge.org/tools/calculators/basic-calculator) |
-| % **Percentage Calculator** | Calculate percentages and discounts | [Use Tool →](https://freetoolforge.org/tools/calculators/percentage-calculator) |
-| ⚖️ **BMI Calculator** | Calculate your Body Mass Index | [Use Tool →](https://freetoolforge.org/tools/calculators/bmi-calculator) |
-| 🕌 **Zakat Calculator Pakistan** | Accurate Zakat calculator with latest nisab values for Pakistan — cash, gold, silver, investments | [Use Tool →](https://freetoolforge.org/tools/calculators/zakat-calculator) |
-| 🎂 **Age Calculator** | Calculate your exact age in years, months, days plus zodiac sign, generation and next birthday | [Use Tool →](https://freetoolforge.org/tools/calculators/age-calculator) |
-| 🎓 **GPA Calculator** | Calculate GPA instantly — supports US 4.0 scale, Pakistan CGPA and percentage systems | [Use Tool →](https://freetoolforge.org/tools/calculators/gpa-calculator) |
-| 🔄 **Unit Converter** | Convert between 80+ units — length, weight, temperature, volume, speed, area, time and data | [Use Tool →](https://freetoolforge.org/tools/calculators/unit-converter) |
-| 📊 **CGPA to Percentage** | Convert CGPA to percentage using Pakistan HEC formula — supports 4.0 and 5.0 scale | [Use Tool →](https://freetoolforge.org/tools/calculators/cgpa-to-percentage) |
-| 🏆 **Merit Calculator Pakistan** | Calculate your aggregate/merit for NUST, FAST, UET, LUMS and MDCAT university admissions | [Use Tool →](https://freetoolforge.org/tools/calculators/merit-calculator) |
-| 🏛️ **FBR Income Tax Calculator** | Calculate your income tax for FBR 2025-26 slabs — annual tax, monthly deduction, effective rate | [Use Tool →](https://freetoolforge.org/tools/calculators/fbr-income-tax-calculator) |
-| 💼 **Freelancer Tax Calculator** | Calculate tax for freelancers (Upwork, Fiverr) with PSEB exemption and filer/non-filer rates 2025-26 | [Use Tool →](https://freetoolforge.org/tools/calculators/freelancer-tax-calculator) |
-| ⚡ **Electricity Bill Calculator** | Estimate your monthly electricity bill for LESCO, KE, MEPCO with latest 2025 NEPRA slabs and taxes | [Use Tool →](https://freetoolforge.org/tools/calculators/electricity-bill-calculator) |
-| 📄 **Salary Slip Generator** | Create professional salary slips for Pakistan with FBR tax, EOBI, and PESSI calculations — download as PDF | [Use Tool →](https://freetoolforge.org/tools/calculators/salary-slip-generator) |
-| 🩺 **MDCAT Aggregate Calculator** | Calculate your MDCAT 2025 merit for PMC, NUMS, and UHS using the official 10-40-50 formula | [Use Tool →](https://freetoolforge.org/tools/calculators/mdcat-aggregate-calculator) |
-| 🚗 **Vehicle Token Tax Calculator** | Calculate Punjab vehicle token tax 2025 with filer/non-filer surcharge and MTMIS payment integration | [Use Tool →](https://freetoolforge.org/tools/calculators/vehicle-token-tax-calculator) |
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NoraizRana&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9)](https://github.com/NoraizRana)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NoraizRana&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/NoraizRana)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NoraizRana&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=79c0ff&currStreakLabel=c9d1d9)](https://github-readme-streak-stats.herokuapp.com?user=NoraizRana&theme=radical)
+
+</div>
 
 ---
 
-## 📝 Text Tools (6 Tools)
+## 🏆 My Achievements & Highlights
 
-Powerful text processing and AI-powered writing tools — no software needed.
+<div align="center">
 
-| Tool | Description | Link |
-|------|-------------|------|
-| 📊 **Word Counter** | Count words, characters, and paragraphs instantly | [Use Tool →](https://freetoolforge.org/tools/text-tools/word-counter) |
-| ✍️ **AI Grammar Checker** | Free AI grammar, spelling & punctuation checker with instant corrections and explanations | [Use Tool →](https://freetoolforge.org/tools/text-tools/ai-grammar-checker) |
-| {} **JSON Formatter** | Format and validate JSON code | [Use Tool →](https://freetoolforge.org/tools/text-tools/json-formatter) |
-| 📝 **Markdown Editor** | Write and preview Markdown with live rendering | [Use Tool →](https://freetoolforge.org/tools/text-tools/markdown-editor) |
-| ⌨️ **Typing Speed Test** | Test your WPM typing speed and accuracy with real-time feedback and ranking | [Use Tool →](https://freetoolforge.org/tools/text-tools/typing-speed-test) |
-| ✨ **AI Text Summarizer** | Summarize any text instantly using AI — paragraph, bullets, TL;DR, academic or simple style | [Use Tool →](https://freetoolforge.org/tools/text-tools/ai-summarizer) |
+| Achievement | Details |
+|:---:|:---|
+| 🎯 **Projects Completed** | 15+ Full-Stack Applications |
+| 👥 **GitHub Followers** | Growing Community |
+| ⭐ **Repositories** | Multiple Open-Source Contributions |
+| 🚀 **Deployed Apps** | Web, Mobile-Responsive Solutions |
+| 📱 **Responsive Design** | Mobile-First Approach |
+| 💻 **Code Quality** | Clean, Maintainable, Well-Documented |
 
----
-
-## 💻 Developer Tools (9 Tools)
-
-Essential tools for developers and programmers.
-
-| Tool | Description | Link |
-|------|-------------|------|
-| 📱 **QR Code Generator** | Generate free QR codes for URLs, WiFi, emails, and more | [Use Tool →](https://freetoolforge.org/tools/developer-tools/qr-code-generator) |
-| 🤖 **AI Code Explainer** | Paste any code and get an instant AI explanation — understand logic, find bugs, analyze complexity | [Use Tool →](https://freetoolforge.org/tools/developer-tools/ai-code-explainer) |
-| 🎨 **Color Picker** | Pick, convert, and copy color codes — HEX, RGB, HSL | [Use Tool →](https://freetoolforge.org/tools/developer-tools/color-picker) |
-| 📋 **JSON to CSV** | Convert JSON data to CSV format instantly | [Use Tool →](https://freetoolforge.org/tools/developer-tools/json-to-csv) |
-| 🔐 **Base64 Encoder** | Encode and decode Base64 text | [Use Tool →](https://freetoolforge.org/tools/developer-tools/base64-encoder) |
-| 🔑 **Password Generator** | Generate strong, secure, cryptographically random passwords instantly | [Use Tool →](https://freetoolforge.org/tools/developer-tools/password-generator) |
-| 🆔 **UUID Generator** | Generate cryptographically secure UUIDs v4, v1 or NIL — bulk generate up to 50 at once | [Use Tool →](https://freetoolforge.org/tools/developer-tools/uuid-generator) |
-| 💻 **Online Compiler** | Write and run code in Python, JavaScript, C++, Java, Go, Rust and more — free, instant, no signup | [Use Tool →](https://freetoolforge.org/tools/developer-tools/online-compiler) |
-| 🌐 **IP Address Lookup** | Instantly detect your IP address or lookup any IP — location, ISP, timezone, VPN detection | [Use Tool →](https://freetoolforge.org/tools/developer-tools/ip-lookup) |
+</div>
 
 ---
 
-## 🖼️ Image Tools (3 Tools)
+## 🎨 Featured Projects
 
-Fast, private image processing — all done in your browser.
+<div align="center">
 
-| Tool | Description | Link |
-|------|-------------|------|
-| 🖼️ **Poster Maker** | Design beautiful Eid and event posters with Urdu text support — download free high-quality PNGs | [Use Tool →](https://freetoolforge.org/tools/image-tools/poster-maker) |
-| 🗜️ **Image Compressor** | Compress and optimize images without quality loss — JPG, PNG, WebP | [Use Tool →](https://freetoolforge.org/tools/image-tools/image-compressor) |
-| ✂️ **AI Background Remover** | Remove image backgrounds instantly using AI — free with transparent PNG download | [Use Tool →](https://freetoolforge.org/tools/image-tools/background-remover) |
+### Project Showcase
 
----
+**[🌟 Project One](https://github.com/NoraizRana/project-one)**
+> E-Commerce Platform with React, Node.js, MongoDB
+> 
+> Features: Authentication, Payment Gateway, Admin Dashboard
 
-## 📄 Document Tools (12 Tools)
+**[🔥 Project Two](https://github.com/NoraizRana/project-two)**
+> Real-time Chat Application
+> 
+> Features: Socket.io, JWT Auth, Message History
 
-Professional PDF tools — no upload to server, fully private.
+**[💎 Project Three](https://github.com/NoraizRana/project-three)**
+> Task Management System
+> 
+> Features: Drag-and-Drop, Team Collaboration, Analytics
 
-| Tool | Description | Link |
-|------|-------------|------|
-| 📑 **PDF ↔ Word Converter** | Convert between PDF and Word documents easily — no formatting loss | [Use Tool →](https://freetoolforge.org/tools/document-tools/pdf-word-converter) |
-| 🗜️ **PDF Compressor** | Compress PDF files and reduce size instantly | [Use Tool →](https://freetoolforge.org/tools/document-tools/pdf-compressor) |
-| 📎 **Merge PDF** | Combine multiple PDF files into one document | [Use Tool →](https://freetoolforge.org/tools/document-tools/merge-pdf) |
-| ✂️ **Split PDF** | Split PDF into pages or extract specific page ranges | [Use Tool →](https://freetoolforge.org/tools/document-tools/split-pdf) |
-| 🖼️ **Image to PDF** | Convert JPG and PNG images to PDF instantly | [Use Tool →](https://freetoolforge.org/tools/document-tools/image-to-pdf) |
-| ✍️ **Sign PDF** | Draw and add your signature to any PDF | [Use Tool →](https://freetoolforge.org/tools/document-tools/sign-pdf) |
-| 🖼️ **PDF to JPG** | Convert PDF pages to high-quality JPG images | [Use Tool →](https://freetoolforge.org/tools/document-tools/pdf-to-jpg) |
-| 📊 **PDF to Excel** | Convert PDF tables and data to editable spreadsheets | [Use Tool →](https://freetoolforge.org/tools/document-tools/pdf-to-excel) |
-| 🔄 **Rotate PDF** | Rotate and save PDF pages permanently | [Use Tool →](https://freetoolforge.org/tools/document-tools/rotate-pdf) |
-| 🔓 **Unlock PDF** | Remove password and restrictions from PDF files | [Use Tool →](https://freetoolforge.org/tools/document-tools/unlock-pdf) |
-| 🏷️ **Watermark PDF** | Add custom text or images watermark to your PDF pages | [Use Tool →](https://freetoolforge.org/tools/document-tools/watermark-pdf) |
-| 🔒 **Lock PDF** | Add password protection to your PDF documents | [Use Tool →](https://freetoolforge.org/tools/document-tools/lock-pdf) |
+</div>
 
 ---
 
-## 🇵🇰 Built for Pakistan
-
-[ToolForge](https://freetoolforge.org) is specifically designed for Pakistani users with tools tailored to local needs:
-
-- 🎓 **Students** — [MDCAT aggregate calculator](https://freetoolforge.org/tools/calculators/mdcat-aggregate-calculator), [CGPA to percentage](https://freetoolforge.org/tools/calculators/cgpa-to-percentage), [merit calculator](https://freetoolforge.org/tools/calculators/merit-calculator) for NUST, FAST, UET, LUMS
-- 💼 **Freelancers** — [Freelancer tax calculator](https://freetoolforge.org/tools/calculators/freelancer-tax-calculator) with PSEB exemption for Upwork/Fiverr income
-- 🏢 **Professionals** — [Salary slip generator](https://freetoolforge.org/tools/calculators/salary-slip-generator) with EOBI, PESSI, and FBR tax deductions
-- 🏠 **Households** — [Electricity bill calculator](https://freetoolforge.org/tools/calculators/electricity-bill-calculator) for LESCO, MEPCO, IESCO, KE and all DISCOs
-- 🚗 **Vehicle Owners** — [Vehicle token tax calculator](https://freetoolforge.org/tools/calculators/vehicle-token-tax-calculator) with filer/non-filer surcharge for Punjab
-- 🕌 **Muslims** — [Zakat calculator Pakistan](https://freetoolforge.org/tools/calculators/zakat-calculator) with latest nisab values for cash, gold and silver
-- 💰 **Taxpayers** — [FBR income tax calculator](https://freetoolforge.org/tools/calculators/fbr-income-tax-calculator) based on 2025-26 official slabs
-
----
-
-## 🚀 Why ToolForge?
+## 🎓 Learning & Development
 
 ```
-✅ 100% Free        — No hidden charges, no premium tiers
-✅ No Signup        — Use every tool without creating an account
-✅ No Ads           — Clean, distraction-free experience
-✅ Private          — All processing done in your browser
-✅ Fast             — Instant results, no server uploads
-✅ Pakistan-Specific — Tools built for local rules, slabs & formulas
-✅ AI-Powered       — Grammar checker, code explainer, summarizer
-✅ Mobile-Friendly  — Works perfectly on all devices
+🌱 Currently Learning:
+├── 🔹 Advanced React Patterns
+├── 🔹 GraphQL & Apollo Client
+├── 🔹 Cloud Deployment (AWS, Vercel)
+├── 🔹 Docker & Kubernetes
+├── 🔹 TypeScript Advanced Concepts
+└── 🔹 Web Performance Optimization
+
+📖 Areas of Interest:
+├── 🎯 Full-Stack Development
+├── 🎯 Web Security
+├── 🎯 Scalable Architecture
+├── 🎯 DevOps & CI/CD
+└── 🎯 Open-Source Contribution
 ```
 
 ---
 
-## 🌐 Quick Links
+## 📈 What I'm Working On
 
-| Category | Tools | URL |
-|----------|-------|-----|
-| 🏠 **Homepage** | All 46 Tools | [freetoolforge.org](https://freetoolforge.org) |
-| 🧮 **Calculators** | 16 Tools | [freetoolforge.org/tools/calculators](https://freetoolforge.org/tools/calculators) |
-| 📝 **Text Tools** | 6 Tools | [freetoolforge.org/tools/text-tools](https://freetoolforge.org/tools/text-tools) |
-| 💻 **Developer Tools** | 9 Tools | [freetoolforge.org/tools/developer-tools](https://freetoolforge.org/tools/developer-tools) |
-| 🖼️ **Image Tools** | 3 Tools | [freetoolforge.org/tools/image-tools](https://freetoolforge.org/tools/image-tools) |
-| 📄 **Document Tools** | 12 Tools | [freetoolforge.org/tools/document-tools](https://freetoolforge.org/tools/document-tools) |
+<div align="center">
+
+- 🔨 Building: **Next.js E-Commerce Platform**
+- 📚 Learning: **Advanced Backend Optimization**
+- 🤝 Contributing: **Open-Source Projects**
+- 📝 Writing: **Tech Blog & Tutorials**
+- 🎤 Speaking: **Developer Community Events**
+
+</div>
+
+---
+
+## 💬 Let's Connect & Collaborate
+
+I'm always excited to:
+- 💼 Discuss innovative project ideas
+- 🤝 Collaborate on open-source projects
+- 📚 Share knowledge and learn together
+- 🌐 Network with fellow developers
+- 🎯 Contribute to community initiatives
+
+<div align="center">
+
+**Feel free to reach out! Let's build something amazing together! 🚀**
+
+</div>
+
+---
+
+## 📧 Get In Touch
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/noraizrana)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/noraizrana)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=web&logoColor=white)](https://noraizrana.com)
+
+</div>
+
+---
+
+## 🌟 Support & Appreciation
+
+<div align="center">
+
+If you find my work helpful, please consider:
+- ⭐ Starring my repositories
+- 🔗 Sharing my work with others
+- 💬 Providing feedback and suggestions
+- 🤝 Contributing to my projects
+
+**Thank you for visiting! Happy coding! 🎉**
 
 ---
 
 <div align="center">
 
-**Built with ❤️ for Pakistan**
+### 👨‍💻 Made with ❤️ by Noraiz Rana
 
-[![Visit ToolForge](https://img.shields.io/badge/Visit-freetoolforge.org-4F46E5?style=for-the-badge&logo=vercel)](https://freetoolforge.org)
+![Profile Views](https://komarev.com/ghpvc/?username=NoraizRana&color=blueviolet)
 
-*No signup. No ads. No data collection. Forever free.*
+**© 2024 - 2026 | All Rights Reserved**
 
 </div>

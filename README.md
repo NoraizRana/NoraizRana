@@ -83,7 +83,7 @@ I'm **Noraiz Rana** | **MERN Stack Developer** | **Full-Stack Architect** | **Te
 
 | Achievement | Details |
 |:---:|:---|
-| 🎯 **Projects Completed** | 15+ Full-Stack Applications |
+| 🎯 **Projects Completed** | 10+ Full-Stack Applications |
 | 👥 **GitHub Followers** | Growing Community |
 | ⭐ **Repositories** | Multiple Open-Source Contributions |
 | 🚀 **Deployed Apps** | Web, Mobile-Responsive Solutions |
